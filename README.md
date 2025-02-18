@@ -5,9 +5,7 @@
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
   </p>
-  
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
+<br>
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
@@ -38,10 +36,11 @@
 </h4>
 
 <em> # Características de la aplicación y demostración </em>
+<br>
 La aplicacion consta de un input donde uno por uno se agregan los nombres a sortear, si no se escribe o se quiere agregar uno ya existente la aplicacion lo alertara para que el usuario
 corrija el error y vuelva a escribir. Para guardar cada nombre tiene el boton "añadir", mientras se van añadiendo nombre iran apareciendo debajo del input.
 Una vez agregados todos los nombres se preciona sobre el boton "sortear amigos" y aleatoriamente aparecera el nombre sorteado.
-
+<br>
 \## 📁 Acceso al proyecto
 <br>
 Para descargar el proyecto hay que descargarlo mediante el boton "<> Code" en Github y descargarlo en el formato que desee, y luego abrir el archivo index.html para poder usar la aplicacion.
