@@ -43,9 +43,11 @@ corrija el error y vuelva a escribir. Para guardar cada nombre tiene el boton "a
 Una vez agregados todos los nombres se preciona sobre el boton "sortear amigos" y aleatoriamente aparecera el nombre sorteado.
 
 \## 📁 Acceso al proyecto
+<br>
 Para descargar el proyecto hay que descargarlo mediante el boton "<> Code" en Github y descargarlo en el formato que desee, y luego abrir el archivo index.html para poder usar la aplicacion.
-
-<em> # Tecnologias utilizadas </em>
+<br>
+<em> # Tecnologias utilizadas </em> 
+<br>
 <ul>
   <li>
     HTML
@@ -57,9 +59,5 @@ Para descargar el proyecto hay que descargarlo mediante el boton "<> Code" en Gi
     Javascript
   </li>
 </ul>
-
-\## 🛠️ Abre y ejecuta el proyecto
-
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
 
