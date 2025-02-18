@@ -21,7 +21,7 @@ function agregarAmigo(){
         //Limpio el input
         amigo.value = "";
         //Compruebo por consola
-        console.log("Amigo agregado:", amigos);
+        //console.log("Amigo agregado:", amigos);
         //Despues de agregar actualizo la lista 
         actualizarLista();
     }
@@ -62,6 +62,21 @@ function sortearAmigo(){
     const resultadoElemento = document.getElementById('resultado');
     resultadoElemento.innerHTML = `Amigo sorteado: <strong>${amigoSorteado}</strong>`;
 };
+
+//Funcion para reiniciar juego
+function reiniciarJuego(){
+    //Vaciar el array
+    amigos = [];
+    //Limpio la lista y el resultado
+    document.getElementById('listaAmigos').innerHTML = "";
+    document.getElementById('resultado').innerHTML = "";
+    //Limpio el campo de entrada
+    document.getElementById('amigo').value = "";
+    //Confirmo en la consola
+    //console.log("Juego reiniciado, lista vacia");
+    alert("El juego a sido reiniciado");
+
+}
 
 
 
