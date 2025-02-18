@@ -25,9 +25,7 @@
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Conclusión](#conclusión)
-
-<h3> # Descripcion del proyecto </h3>
+<h3>  Descripcion del proyecto </h3>
 <p>
   Proyecto en desarrollo para el curso de Alura Latam, el mismo tiene la funcion de agregar nombres de personas y sortearlas aleatoriamente.
 </p>
@@ -36,17 +34,17 @@
 :construction: Proyecto en construcción y/o mejoras :construction:
 </h4>
 
-<h3># Características de la aplicación y demostración </h3>
+<h3> Características de la aplicación y demostración </h3>
 
 La aplicacion consta de un input donde uno por uno se agregan los nombres a sortear, si no se escribe o se quiere agregar uno ya existente la aplicacion lo alertara para que el usuario
 corrija el error y vuelva a escribir. Para guardar cada nombre tiene el boton "añadir", mientras se van añadiendo nombre iran apareciendo debajo del input.
 Una vez agregados todos los nombres se preciona sobre el boton "sortear amigos" y aleatoriamente aparecera el nombre sorteado.
 
-<h3> # 📁 Acceso al proyecto </h3>
+<h3>  📁 Acceso al proyecto </h3>
 
 Para descargar el proyecto hay que descargarlo mediante el boton "<> Code" en Github y descargarlo en el formato que desee, y luego abrir el archivo index.html para poder usar la aplicacion.
 
-<h3> # Tecnologias utilizadas </h3>
+<h3>  Tecnologias utilizadas </h3>
 
 <ul>
   <li>
